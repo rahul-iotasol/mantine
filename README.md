@@ -1,0 +1,2 @@
+# mantine
+next js template
